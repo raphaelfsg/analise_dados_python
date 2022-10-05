@@ -1,0 +1,38 @@
+Passo 1: Importar as bases de dados da empresa
+
+Passo 2: Visualizar as bases de dados
+
+Entender quais as informações disponíveis
+Descobrir as cagadas na base de dados
+
+Passo 3: Tratamento de dados
+
+Passo 4: Análise inicial para entender como estão os cancelamentos
+
+Passo 5: Análise completa para entender o motivo do cancelamento
+
+.map("{:.2f)".format)
+
+
+
+
+A chance do cliente cancelar nos primeiros meses é maior
+		Isso pode significar que a gente ta fazendo alguma promoção pois a primeira experiência do cliente não esta legal
+	
+
+Clientes com famílias maiores tendem a cancelar menos
+		oferecer uma segunda linha ou descontos
+		
+
+Clientes com serviço de fibra tendem a cancelar mais, indicando um possível problema no serviço
+
+
+Quanto mais serviços o cliente tem, menor a chance dele cancelar
+		oferecer mais serviços de bonus ou com desconto
+		
+		
+
+Oferecer desconto para pagamento anual, quase todos os cancelamentos estão no mensal
+
+boleto tem muito mais cancelamento que outras formas de pagamento
+		dar desconto nas outras formas de pagamento
